@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="MaterialScrollBar-12.2.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/13a82816ba8773ac42ca386f734e1f3b6dd6b078/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/13a82816ba8773ac42ca386f734e1f3b6dd6b078/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.turing-tech/MaterialScrollBar/12.2.0/6bc244fd6d251c3e00308382ad6f1c93acb6d92a/MaterialScrollBar-12.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

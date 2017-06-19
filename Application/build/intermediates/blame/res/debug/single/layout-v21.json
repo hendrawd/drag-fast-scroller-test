@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/ptinkosinarmedia/AndroidStudioProjects/RecyclerViewWithHeader/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/ptinkosinarmedia/.android/build-cache/3299aa5cb068f2c85ee8da341c48c5b536a9d2a2/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ptinkosinarmedia/AndroidStudioProjects/RecyclerViewWithHeader/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/ptinkosinarmedia/.android/build-cache/3299aa5cb068f2c85ee8da341c48c5b536a9d2a2/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ptinkosinarmedia/AndroidStudioProjects/RecyclerViewWithHeader/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/ptinkosinarmedia/.android/build-cache/3299aa5cb068f2c85ee8da341c48c5b536a9d2a2/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ptinkosinarmedia/AndroidStudioProjects/RecyclerViewWithHeader/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/ptinkosinarmedia/.android/build-cache/3299aa5cb068f2c85ee8da341c48c5b536a9d2a2/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

@@ -1,0 +1,28 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.turingtechnologies.materialscrollbar.DragScrollBar
+        android:id="@+id/dragScrollBar"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        app:msb_textColour="@color/textColor"
+        app:msb_lightOnTouch="false"
+        app:msb_recyclerView="@id/recyclerView"/>
+
+    <!--app:msb_handleColour="@color/handleColor"-->
+    <!--app:msb_barColour="@color/barColor"-->
+    <!--app:msb_handleOffColour="@color/handleOffColor"-->
+
+</RelativeLayout>
+

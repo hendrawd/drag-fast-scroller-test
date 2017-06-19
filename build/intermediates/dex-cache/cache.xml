@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/ptinkosinarmedia/.android/build-cache/caf92b23e6edc1eff3f2cb4359c85a28ac41c782/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="894922f67adeaaef51f077a29e315da21a3382d3">
+        <dex dex="/Users/ptinkosinarmedia/AndroidStudioProjects/RecyclerViewWithHeader/Application/build/intermediates/pre-dexed/debug/classes_e069099644555e4dd6faf9851833f98bf461d013.jar" />
+    </item>
+
+</items>
