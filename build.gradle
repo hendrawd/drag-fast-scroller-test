@@ -1,14 +1,5 @@
-
-
-
-
-
-
-
-
-
-
-
-
+allprojects {
+    project.ext.supportLibVersion = '25.4.0'
+}
 
 
